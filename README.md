@@ -1,5 +1,5 @@
-# Electronics, Automation and Computer Technician | BSc Student in Computer Engineering
-
+Electronics, Automation and Computer Technician || BSc Student in Computer Engineering
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changemetrics219&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 [![Codewars](https://www.codewars.com/users/changemetrics219/badges/large)](https://www.codewars.com/users/changemetrics219)
 <!--
 **changemetrics219/changemetrics219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
