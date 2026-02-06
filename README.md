@@ -1,6 +1,12 @@
 Electronics, Automation and Computer Technician || BSc Student in Computer Engineering
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changemetrics219&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp)](https://skillicons.dev)
+
+Databases & Data Management 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 [![Codewars](https://www.codewars.com/users/changemetrics219/badges/large)](https://www.codewars.com/users/changemetrics219)
 <!--
