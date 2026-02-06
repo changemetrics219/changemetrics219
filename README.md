@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Codewars](https://www.codewars.com/users/TEU_USER/badges/large)
+[![Codewars](https://www.codewars.com/users/changemetrics219/badges/large)](https://www.codewars.com/users/changemetrics219)
 <!--
 **changemetrics219/changemetrics219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
