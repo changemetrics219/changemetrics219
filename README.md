@@ -9,6 +9,10 @@ Databases & Data Management
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 [![Codewars](https://www.codewars.com/users/changemetrics219/badges/large)](https://www.codewars.com/users/changemetrics219)
+
+Electronics & Automation
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,pinnacle)](https://skillicons.dev)
 <!--
 **changemetrics219/changemetrics219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
